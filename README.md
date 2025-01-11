@@ -5,7 +5,6 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [codexbd@gmail.com](mailto:codexbd@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
